@@ -12,3 +12,4 @@ int main(void) {
     printf("Height: %d\n", height);
     printf("To C, or not to C:\nthat is the question.\n");
 }
+
